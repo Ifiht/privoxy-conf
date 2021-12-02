@@ -1,0 +1,3 @@
+[submodule "privoxy"]
+	path = privoxy
+	url = https://www.privoxy.org/git/privoxy.git
